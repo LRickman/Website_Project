@@ -6,8 +6,10 @@ HTML Code:
 <!-- Bootstrap CSS -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
+
 <!-- Bootstrap JavaScript Bundle -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
 
 CSS Code:
 /* Bootstrap Navbar Styling */
@@ -17,6 +19,7 @@ CSS Code:
 
 /* Other custom styles used in the project */
 
+
 JavaScript Code:
-// Bootstrap JavaScript functionality
-// Custom JavaScript code
+// Utilized Bootstrap JavaScript functionality for interactive components such as navbar toggler, carousel, and modal
+// Custom JavaScript code for additional project-specific functionality
